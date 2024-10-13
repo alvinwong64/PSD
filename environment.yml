@@ -1,4 +1,4 @@
-name: alvinyolo
+name: PSD
 channels:
   - anaconda
   - conda-forge
